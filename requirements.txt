@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+yt-dlp
+faster-whisper
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-text-splitters
+deeplake
+sentence-transformers
